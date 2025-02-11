@@ -1,0 +1,17 @@
+[33mcommit 8618fa57931a74313e345f0bcccb18a99b2b1009[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ash7ska <sanjarkairolla8@gmail.com>
+Date:   Tue Feb 11 10:44:31 2025 +0600
+
+    Add basic styles for the project
+
+[33mcommit 8501eb22e82b09771ad0b92b245b05f2b530dffd[m
+Author: ash7ska <sanjarkairolla8@gmail.com>
+Date:   Tue Feb 11 10:43:06 2025 +0600
+
+    Add basic index.html file
+
+[33mcommit 1d5bf53706b02d849783088e2925f0394ec67037[m
+Author: ash7ska <sanjarkairolla8@gmail.com>
+Date:   Tue Feb 11 10:39:15 2025 +0600
+
+    Initial commit with README
